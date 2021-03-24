@@ -1,13 +1,6 @@
 {
     "name": "emersonnobre/ecommerce",
-    "description": "ecommerce desenvolvido em php7 durante o curso completo de php7 da HCODE pela udemy",
     "type": "project",
-    "authors": [
-        {
-            "name": "emersonnobre",
-            "email": "egrnobre@gmail.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
         "phpmailer/phpmailer":"5.2.22",
